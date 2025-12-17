@@ -9,3 +9,18 @@ Modules implemented:
 - Change Management
 - SLA enforcement
 - Role-based access control
+
+ServiceNow Components Used:
+- Business Rules
+- Flow Designer
+- SLA Definitions
+- Notifications
+- Assignment Groups
+- Users & Roles
+- Access Control Rules (ACLs)
+- Reports & Dashboards
+
+## Repository Contents
+- Documentation explaining the implementation
+- Screenshots showing key functionalities
+- Exported XML files for configurations
