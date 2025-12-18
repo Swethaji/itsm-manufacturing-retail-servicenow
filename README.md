@@ -8,7 +8,7 @@ Modules implemented:
 - Problem Management
 - Change Management
 - SLA enforcement
-- Role-based access control
+- Role-based responsibility using groups and roles
 
 ## ServiceNow Components Used
 - Business Rules
@@ -17,7 +17,6 @@ Modules implemented:
 - Notifications
 - Assignment Groups
 - Users & Roles
-- Access Control Rules (ACLs)
 - Reports & Dashboards
 
 ## Repository Contents
