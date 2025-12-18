@@ -14,7 +14,6 @@ Modules implemented:
 - Business Rules
 - Flow Designer
 - SLA Definitions
-- Notifications
 - Assignment Groups
 - Users & Roles
 - Reports & Dashboards
