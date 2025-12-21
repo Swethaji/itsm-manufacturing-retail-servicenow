@@ -28,4 +28,4 @@ Modules implemented:
 - Documentation explaining the implementation
 - Screenshots showing key functionalities
 - Exported XML files for configurations
-- End-to-end-demo
+- End-to-end demo
